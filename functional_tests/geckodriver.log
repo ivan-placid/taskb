@@ -1,0 +1,8 @@
+1478967763974	geckodriver	INFO	Listening on 127.0.0.1:59777
+1478967764969	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.zSP3OIUJVXRh
+1478967764969	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1478967764972	geckodriver::marionette	INFO	Connecting to Marionette on localhost:37394
+1478967766095	Marionette	INFO	Listening on port 37394
+1478967767568	Marionette	INFO	startBrowser cdb4541a-004a-41dc-b1cf-96116dc0ea52
+[Child 11293] ###!!! ABORT: Aborting on channel error.: file /build/firefox-3wLmb4/firefox-49.0.2+build2/ipc/glue/MessageChannel.cpp, line 2052
+[Child 11293] ###!!! ABORT: Aborting on channel error.: file /build/firefox-3wLmb4/firefox-49.0.2+build2/ipc/glue/MessageChannel.cpp, line 2052

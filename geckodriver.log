@@ -1,0 +1,32 @@
+1478969034097	geckodriver	INFO	Listening on 127.0.0.1:42033
+1478969035100	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.mKvOFRS4qQvW
+1478969035101	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1478969035103	geckodriver::marionette	INFO	Connecting to Marionette on localhost:34536
+1478969035975	Marionette	INFO	Listening on port 34536
+1478969037369	Marionette	INFO	startBrowser b12c42fa-d088-4e1e-a98e-48ff60ab2fcd
+[Child 11747] ###!!! ABORT: Aborting on channel error.: file /build/firefox-3wLmb4/firefox-49.0.2+build2/ipc/glue/MessageChannel.cpp, line 2052
+[Child 11747] ###!!! ABORT: Aborting on channel error.: file /build/firefox-3wLmb4/firefox-49.0.2+build2/ipc/glue/MessageChannel.cpp, line 2052
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xFA0005,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x400003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x400003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+1479056354213	geckodriver	INFO	Listening on 127.0.0.1:41131
+1479056355205	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.uTqFmzXMlj2R
+1479056355208	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1479056355215	geckodriver::marionette	INFO	Connecting to Marionette on localhost:44341
+1479056357744	Marionette	INFO	Listening on port 44341
+1479056361076	Marionette	INFO	startBrowser 162fdbc4-9448-448a-8b48-d95dcd91ed22
+[Child 4587] WARNING: pipe error (3): Соединение разорвано другой стороной: file /build/firefox-3wLmb4/firefox-49.0.2+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 316
+[Child 4587] ###!!! ABORT: Aborting on channel error.: file /build/firefox-3wLmb4/firefox-49.0.2+build2/ipc/glue/MessageChannel.cpp, line 2052
+[Child 4587] ###!!! ABORT: Aborting on channel error.: file /build/firefox-3wLmb4/firefox-49.0.2+build2/ipc/glue/MessageChannel.cpp, line 2052
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x400003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xFA0005,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
