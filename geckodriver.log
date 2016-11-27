@@ -276,3 +276,69 @@
 
 ###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
 
+1480276759882	geckodriver	INFO	Listening on 127.0.0.1:56882
+1480276760884	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.bB8Gp4cXhRoX
+1480276760885	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1480276760888	geckodriver::marionette	INFO	Connecting to Marionette on localhost:36241
+1480276761758	Marionette	INFO	Listening on port 36241
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1060003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1060003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1060003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1060003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 28127] WARNING: pipe error (3): Соединение разорвано другой стороной: file /build/firefox-RaD34G/firefox-50.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 320
+[Child 28127] ###!!! ABORT: Aborting on channel error.: file /build/firefox-RaD34G/firefox-50.0+build2/ipc/glue/MessageChannel.cpp, line 2056
+[Child 28127] ###!!! ABORT: Aborting on channel error.: file /build/firefox-RaD34G/firefox-50.0+build2/ipc/glue/MessageChannel.cpp, line 2056
+1480276764541	geckodriver	INFO	Listening on 127.0.0.1:49913
+1480276765543	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.0r0in2VYaLec
+1480276765543	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1480276765546	geckodriver::marionette	INFO	Connecting to Marionette on localhost:42396
+1480276766408	Marionette	INFO	Listening on port 42396
+[Child 28237] ###!!! ABORT: Aborting on channel error.: file /build/firefox-RaD34G/firefox-50.0+build2/ipc/glue/MessageChannel.cpp, line 2056
+[Child 28237] ###!!! ABORT: Aborting on channel error.: file /build/firefox-RaD34G/firefox-50.0+build2/ipc/glue/MessageChannel.cpp, line 2056
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1060003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+1480276769044	geckodriver	INFO	Listening on 127.0.0.1:34711
+1480276770045	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.e3yeAZRieeOR
+1480276770046	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1480276770048	geckodriver::marionette	INFO	Connecting to Marionette on localhost:40294
+1480276770922	Marionette	INFO	Listening on port 40294
+[Child 28350] WARNING: pipe error (3): Соединение разорвано другой стороной: file /build/firefox-RaD34G/firefox-50.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 320
+[Child 28350] ###!!! ABORT: Aborting on channel error.: file /build/firefox-RaD34G/firefox-50.0+build2/ipc/glue/MessageChannel.cpp, line 2056
+[Child 28350] ###!!! ABORT: Aborting on channel error.: file /build/firefox-RaD34G/firefox-50.0+build2/ipc/glue/MessageChannel.cpp, line 2056
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1060003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
